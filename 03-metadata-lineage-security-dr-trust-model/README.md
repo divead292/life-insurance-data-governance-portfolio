@@ -1,4 +1,4 @@
-# Metadata, Lineage, Security, and DR Trust Model
+# Metadata, Lineage, Security, and DR Trust Mode
 
 ## Business Context
 This project creates a trust model for enterprise reporting and analytics across LifePlus, FAST, SQL Server, PostgreSQL, Snowflake, AWS Redshift, Microsoft Purview, and Power BI.
